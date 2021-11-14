@@ -1,4 +1,3 @@
-# JavaRash
-selected tasks
+# Favourites
 
-![Screenshot](ascii.png)
+![Screenshot](images/ascii.png)
